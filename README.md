@@ -5,3 +5,6 @@ ProMaS is significant for the diverse needs of modern project management, ensuri
 while fostering collaboration and streamlined communication. This innovative platform empowers project
 stakeholders with a range of capabilities, ensuring optimal resource allocation, budget control, and progress
 tracking.
+
+## System Diagram
+![System Diagram](System%20Diagram/system_diagram.jpg)
