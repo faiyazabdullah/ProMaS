@@ -7,4 +7,4 @@ stakeholders with a range of capabilities, ensuring optimal resource allocation,
 tracking.
 
 ## System Diagram
-![System Diagram](System%20Diagram/system_diagram.jpg)
+![System Diagram](Documentataion/DBMS.png)
